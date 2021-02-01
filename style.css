@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    height: 100px;
+    background: #2C3E50;
+    
+}
+.banner{
+    height: 600px;
+   
+    background: #1ABC9C;
+    padding-top: 100px;
+}
+
+.img-banner{
+    width: 250px;
+    height: 250px;
+}
+
+.logo{
+    font-size: 70px;
+}
+.contenedor-img{
+    height: 550px;
+}
+
+.img{
+    width: 330px ;
+    height: 230px;
+}
+
+.portafolio{
+    height: 200px;
+}
+.inp-modal{
+    outline: 0px;
+}
+.portafolio>p{
+    font-size: 50px;
+    color: #2C3E50;
+}
+
+.about{
+    background: #1ABC9C;
+    height: 500px;
+}
+
+.p-about{
+    font-size: 50px;
+}
+.img-download{
+    width: 15px;
+    height: 15px;
+    color: white;
+}
